@@ -32,10 +32,12 @@
   有些理想化的小型互联网络包括两种端系统，即交换机和路由器。如下图所示，每个编号对应于在特定层中的一种协议。
   
   ![image](http://github.com/Gaojiuru/TCP-IP-Illustrate/raw/master/images/picture2.png)
+  
   不同的网络设备实现协议栈的不同子集，端主机通常实现所有层。路由器实现传输层之下的各层。这种理想化的结构经常被破坏，这是由于路由器和交换机通常包括类似于主机的功能（例如管理和建立），因此它们需要实现所有层，即使有些层很少使用。
 
 1.3 TCP/IP协议族结构和协议
 
 ARPANET参考模型
 
+![image](http://github.com/Gaojiuru/TCP-IP-Illustrate/raw/master/images/ARPANET参考模型.png)
   
