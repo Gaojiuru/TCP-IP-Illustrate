@@ -21,3 +21,5 @@
 ![image](http://github.com/Gaojiuru/TCP-IP-Illustrate/raw/master/images/封装.png)
 
   封装通常与分层一起使用。单纯的封装涉及获得某层的PDU，并在低层将它作为不透明（无需解释）的数据来处理。封装发生在发送方，拆封（还原操作）发生在接收方。多数协议在封装过程中使用头部，少数协议也使用尾部。
+  
+  
